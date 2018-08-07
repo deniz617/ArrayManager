@@ -1,0 +1,5 @@
+#sources
+*.cpp text
+*.c++ text
+*.hpp text
+*.h text
